@@ -1,4 +1,4 @@
-Les Portes de l'Énigme
+# Les Portes de l'Énigme
 {Epitech} | Jam#2
 
 Les Portes de l'Énigme is a open source FPS game.
